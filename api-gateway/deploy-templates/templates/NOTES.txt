@@ -1,0 +1,1 @@
+1. Application api-gateway has been successfully deployed!!
